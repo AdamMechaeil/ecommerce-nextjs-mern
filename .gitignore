@@ -1,0 +1,22 @@
+/admin/node_modules
+/client/node_modules
+/seller/node_modules
+/server/node_modules
+
+# /admin/public
+# /client/public
+# /seller/public
+
+# /admin/jsconfig.json
+# /admin/next.config.mjs
+/admin/package-lock.json
+
+# /client/jsconfig.json
+# /client/next.config.mjs
+/client/package-lock.json
+
+# /seller/jsconfig.json
+# /seller/next.config.mjs
+/seller/package-lock.json
+
+/server/package-lock.json
