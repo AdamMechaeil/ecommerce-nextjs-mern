@@ -20,3 +20,4 @@
 /seller/package-lock.json
 
 /server/package-lock.json
+/server/config/config.env
